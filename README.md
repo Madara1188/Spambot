@@ -13,10 +13,10 @@
 
 <h4 align="center"> 𝐓𝐇𝐄 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
-<p align="center"><a href="https://t.me/itsz_shivam"><img src="https://graph.org/file/6b1e6a6b8b0bb4934689f.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/sahenshah01"><img src="https://graph.org/file/6b1e6a6b8b0bb4934689f.jpg" width="400"></a></p>
 
 
-> ⭐️ Thanks to everyone for using THIS SPECTRE SPAM BOT, That is the greatest pleasure we have !
+> ⭐️ Thanks to everyone for using THIS SAHENSHAH SPAM BOT, That is the greatest pleasure we have !
 
 <br>
 
