@@ -126,7 +126,7 @@ RAID = [
     "𝗧𝗘𝗥𝗜 𝗠𝗔́𝗔̀𝗞𝗢 𝗞𝗛𝗨𝗟𝗘 𝗕𝗔𝗝𝗔𝗥 𝗠𝗘 𝗖𝗛𝗢𝗗 𝗗𝗔𝗟𝗔 🤣🤣💋",
 ]
 
-ALTRON = [5174492401]
+ALTRON = [5129320633]
 
 REPLYRAID = [
     "MADARCHOD",
@@ -154,7 +154,7 @@ REPLYRAID = [
     "LWDEEE",
     "PAPA KI SPEED MTCH NHI HO RHI KYA",
     "ALE ALE MELA BCHAAAA",
-    "[RYAN](t.me/PYTH0NXD) TERA BAAP !!",
+    "[GAMING](t.me/beasterbro) TERA BAAP !!",
     "CHUD GYA PAPA SEEE",
     "KISAN KO KHODNA OR",
     "SALE RAPEKL KRDKA TERA",
@@ -308,7 +308,7 @@ REPLYRAID = [
     "TERI SEXY BAHEN KI CHUT OP",
 ]
 
-GROUP = [-1001868408316]
+GROUP = [-1001963474655]
 
 PORMS = [
         "https://te.legra.ph/file/a66008b78909b431fc92b.mp4",
