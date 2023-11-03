@@ -1,14 +1,14 @@
 {
-    "name": "PythonX HERE.",
-    "logo": "https://telegra.ph/file/0de98f5fe87df8e6b514d.jpg",
+    "name": "SAHENSHAHX HERE.",
+    "logo": "https://graph.org/file/6b1e6a6b8b0bb4934689f.jpg",
     "keywords": [
         "telegram",
         "telethon",
         "telegram-bot",
-        "PythonX",
+        "SAHENSHAHX",
         "SpamBots"
     ],
-    "repository": "https://github.com/itszshivam/SK_spambot",
+    "repository": "https://github.com/gamingbuddyyy/SK_spambot",
     "env": {
      "CMD_HNDLR": {
             "description": "Custom command handler.",
