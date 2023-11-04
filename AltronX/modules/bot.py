@@ -23,7 +23,7 @@ async def ping(e):
         altron = await e.reply(f"» #​kya_bolti_public", parse_mode=None, link_preview=None)
         end = datetime.now()
         mp = (end - start).microseconds / 1000
-        await altron.edit(f"__🤖 nagpur wale dolly bhai ki maa ki chut__\n» `{mp} ms`")
+        await altron.edit(f"__🤖 Madara sahab a gye kia __\n» `{mp} ms`")
 
 
 @MK1.on(events.NewMessage(incoming=True, pattern=r"\%sreboot(?: |$)(.*)" % hl))
@@ -99,7 +99,7 @@ sudousers = os.environ.get("SUDO_USER", None)
 @MK10.on(events.NewMessage(incoming=True, pattern=r"\%ssudo(?: |$)(.*)" % hl))
 async def addsudo(event):
     if event.sender_id == OWNER_ID:
-        ok = await event.reply(f"» __le sudo, chal ab enjoy kr...__")
+        ok = await event.reply(f"» __le sudo, chal ab enjoy kr...madara ka londa hai tu ajh se __")
         mks = "SUDO_USER"
         target = ""
         if HEROKU_APP_NAME is not None:
